@@ -24,9 +24,7 @@
 
 ## Notes:
 
-* Ensure you have a working input sound source (e.g. a working input mic).
-* Run the application on your native terminal (i.e. not iTerm2, etc.).
-* Python 2 is not supported. It is advised to run this application using Python>=3.6.
+* Ensure you have a 
                                                                                           
 <b>MacOS</b>
 
